@@ -1,0 +1,31 @@
+
+Instalação node.js
+
+powershell
+node -v : verszão do node.js
+
+para executar NPM no powershellpowershell
+Get-ExecutionPolicy (VERIFICA A POLITICA NO MOMENTO DA INSTALAÇÃO)
+Set-ExecutionPolicy RemoteSigned (digitar esse comando no powershell como administrador)
+
+
+Criar aplicação REAT
+npx create-react-app <nome>
+cd <nome>
+
+iniciar aplicação 
+npm start
+
+outra forma de criar aplicação selecionando o framework
+npm create vite@latest
+
+cd <nome2>
+npm install
+npm run dev
+
+
+Visual studio Code
+ES7+ React/Redux/React-Native snippets
+Emmet
+Prettier
+
