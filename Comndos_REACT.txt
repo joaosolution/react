@@ -29,3 +29,14 @@ ES7+ React/Redux/React-Native snippets
 Emmet
 Prettier
 
+
+GIT
+git init
+git branch 
+git add .
+git remote add origin https://https://github.com/joaosolution/react.git
+git commit -m "Inicio projeto 4"
+git push origin master
+git push origin main
+
+
